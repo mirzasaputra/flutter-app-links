@@ -1,0 +1,10 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "id.kelolabisnis.mobile.dev",
+            "sha256_cert_fingerprints": ["69:7A:F2:98:97:CF:D4:78:AA:32:BA:C9:BB:FD:BF:6C:44:2D:08:65:64:A0:F4:37:EB:03:A7:01:B5:43:28:69"]
+        }
+    }
+]
